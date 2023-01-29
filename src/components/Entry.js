@@ -5,7 +5,7 @@ const Entry = (props) => {
     <React.Fragment>
       <header>Dance video</header>
       <h2>date</h2>
-      <input></input>
+
     </React.Fragment>
   );
 };
